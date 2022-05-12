@@ -1,0 +1,6 @@
+C:\Users\Kryss\source\repos\proba1\carte\bin\Debug\carte.dll
+C:\Users\Kryss\source\repos\proba1\carte\bin\Debug\carte.pdb
+C:\Users\Kryss\source\repos\proba1\carte\obj\Debug\carte.csprojAssemblyReference.cache
+C:\Users\Kryss\source\repos\proba1\carte\obj\Debug\carte.csproj.CoreCompileInputs.cache
+C:\Users\Kryss\source\repos\proba1\carte\obj\Debug\carte.dll
+C:\Users\Kryss\source\repos\proba1\carte\obj\Debug\carte.pdb

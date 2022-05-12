@@ -1,0 +1,5 @@
+1;2;pace;razboi;nato;
+1;3;nana;m;cabana;
+1;3;harry potter;J.K;fable;
+1;2;nana;m;k;
+1;1;2;2;2;

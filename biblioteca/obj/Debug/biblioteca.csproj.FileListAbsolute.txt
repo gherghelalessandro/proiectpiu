@@ -1,0 +1,9 @@
+C:\Users\Kryss\source\repos\proba1\biblioteca\bin\Debug\biblioteca.dll
+C:\Users\Kryss\source\repos\proba1\biblioteca\bin\Debug\biblioteca.pdb
+C:\Users\Kryss\source\repos\proba1\biblioteca\bin\Debug\carte.dll
+C:\Users\Kryss\source\repos\proba1\biblioteca\bin\Debug\carte.pdb
+C:\Users\Kryss\source\repos\proba1\biblioteca\obj\Debug\biblioteca.csprojAssemblyReference.cache
+C:\Users\Kryss\source\repos\proba1\biblioteca\obj\Debug\biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Kryss\source\repos\proba1\biblioteca\obj\Debug\biblioteca.csproj.CopyComplete
+C:\Users\Kryss\source\repos\proba1\biblioteca\obj\Debug\biblioteca.dll
+C:\Users\Kryss\source\repos\proba1\biblioteca\obj\Debug\biblioteca.pdb
