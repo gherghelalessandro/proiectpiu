@@ -13,6 +13,7 @@ namespace biblioteca
         public LinkedList<Carte> c1 = new LinkedList<Carte>();
         string numefisier;
         int index;
+        public const int id1= 1;
         
      
         //constructori
@@ -44,6 +45,18 @@ namespace biblioteca
 
         }
 
+       // public int getid()
+        //{
+        //    index = id1;
+       //     string[] line = File.ReadAllLines(numefisier);
+        //    if (line == null) return 0;
+      //      foreach(string l in line)
+      //      {
+       //         index++;
+      //      }
+      //      return index;
+      // }
+
         //functii de editare a bibliotecii
 
         //adaugare
@@ -51,9 +64,9 @@ namespace biblioteca
         {
             if (getbook(c.nume,c.autor,c.editura) == null&&(c.nume!=string.Empty&&c.autor!=string.Empty&&c.editura!=string.Empty&&c.nr!=0))
             {
-                c.id++;
-                index = c.id;
+               // c.id = getid();
                 c1.AddLast(c);
+                index++;
             }
         }
 
@@ -69,15 +82,33 @@ namespace biblioteca
                     index += b.index;
                     if (getbook(carte.nume,carte.autor,carte.editura)==null)
                     {
-                        
-                        s.WriteLine(index+";"+carte.nr + ";" + carte.nume + ";" + carte.autor + ";" + carte.editura + ";");
+                        s.WriteLine(carte.id+";"+carte.nr + ";" + carte.nume + ";" + carte.autor + ";" + carte.editura + ";");
                         c1.AddLast(carte);
-                        index++;
                     }
                     
 
                 }
 
+            }
+        }
+        public void removebooks_file(Carte carte)
+        {
+            int i = 0;
+            string[] line = File.ReadAllLines(numefisier);
+            foreach (string s in line)
+            {
+
+                Carte c = new Carte();
+                c = c.citirefile(s);
+                Console.WriteLine(c.nume);
+                if (c.nume == carte.nume && c.autor == carte.autor && c.editura == carte.editura)
+                {
+                    c.nr--;
+                    string newline = c.id + ";" + c.nr + ";" + c.nume + ";" + c.autor + ";" + c.editura + ";";
+                    line[i] = newline;
+                    break;
+                }
+                i++;
             }
         }
 
@@ -196,11 +227,6 @@ namespace biblioteca
                 }
                 i++;
             }
-            foreach(string s in line)
-            {
-                Console.WriteLine(s);
-            }
-            Console.ReadKey();
             File.WriteAllLines(numefisier,line);
         }
 
