@@ -1,0 +1,11 @@
+C:\Users\Kryss\source\repos\proiectpiu\bazadedatetxt\bin\Debug\bazadedatetxt.dll
+C:\Users\Kryss\source\repos\proiectpiu\bazadedatetxt\bin\Debug\bazadedatetxt.pdb
+C:\Users\Kryss\source\repos\proiectpiu\bazadedatetxt\bin\Debug\carte.dll
+C:\Users\Kryss\source\repos\proiectpiu\bazadedatetxt\bin\Debug\carte.pdb
+C:\Users\Kryss\source\repos\proiectpiu\bazadedatetxt\obj\Debug\bazadedatetxt.csprojAssemblyReference.cache
+C:\Users\Kryss\source\repos\proiectpiu\bazadedatetxt\obj\Debug\bazadedatetxt.csproj.CoreCompileInputs.cache
+C:\Users\Kryss\source\repos\proiectpiu\bazadedatetxt\obj\Debug\bazadedatetxt.csproj.CopyComplete
+C:\Users\Kryss\source\repos\proiectpiu\bazadedatetxt\obj\Debug\bazadedatetxt.dll
+C:\Users\Kryss\source\repos\proiectpiu\bazadedatetxt\obj\Debug\bazadedatetxt.pdb
+C:\Users\Kryss\source\repos\proiectpiu\bazadedatetxt\bin\Debug\user.dll
+C:\Users\Kryss\source\repos\proiectpiu\bazadedatetxt\bin\Debug\user.pdb

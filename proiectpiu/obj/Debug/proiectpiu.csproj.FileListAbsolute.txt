@@ -1,0 +1,12 @@
+C:\Users\Kryss\source\repos\proiectpiu\proiectpiu\bin\Debug\proiectpiu.exe.config
+C:\Users\Kryss\source\repos\proiectpiu\proiectpiu\bin\Debug\proiectpiu.exe
+C:\Users\Kryss\source\repos\proiectpiu\proiectpiu\bin\Debug\proiectpiu.pdb
+C:\Users\Kryss\source\repos\proiectpiu\proiectpiu\obj\Debug\proiectpiu.csprojAssemblyReference.cache
+C:\Users\Kryss\source\repos\proiectpiu\proiectpiu\obj\Debug\proiectpiu.csproj.CoreCompileInputs.cache
+C:\Users\Kryss\source\repos\proiectpiu\proiectpiu\obj\Debug\proiectpiu.exe
+C:\Users\Kryss\source\repos\proiectpiu\proiectpiu\obj\Debug\proiectpiu.pdb
+C:\Users\Kryss\source\repos\proiectpiu\proiectpiu\bin\Debug\bazadedatetxt.dll
+C:\Users\Kryss\source\repos\proiectpiu\proiectpiu\bin\Debug\carte.dll
+C:\Users\Kryss\source\repos\proiectpiu\proiectpiu\bin\Debug\bazadedatetxt.pdb
+C:\Users\Kryss\source\repos\proiectpiu\proiectpiu\bin\Debug\carte.pdb
+C:\Users\Kryss\source\repos\proiectpiu\proiectpiu\obj\Debug\proiectpiu.csproj.CopyComplete
